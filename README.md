@@ -44,7 +44,7 @@ The dataset contains the following features:
 - Thalassemia type
 - **Target** (1 = presence of heart disease, 0 = absence)
 
-> 📎 *Note: Dataset source or citation should be added here if applicable.*
+> Dataset here: 📎 *https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction*
 
 ---
 
